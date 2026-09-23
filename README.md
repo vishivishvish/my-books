@@ -1,4 +1,4 @@
-# my-books
+# My Books
 
 A personal collection of some books I've always wanted to (but unfortunately never yet found the time to) read, kept here for backup and easy access.
 
